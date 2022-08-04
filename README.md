@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @WilAm1
 Software Developer
-- 📫 Reach me via DM or email me 
+- Javascript
+- HTML
+- CSS
+- React
+- Git/Github
+- 📫 Reach me via DM or email 
+
 
 <!---
 WilAm1/WilAm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
