@@ -4,7 +4,9 @@ Software Developer
 - CSS
 - React
 - Git/Github
-- 📫 Reach me via DM or email 
+
+
+📫 Reach me via DM or email 
 
 
 <!---
