@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WilAm1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning WebDev basics
+Software Developer
 - 📫 Reach me via DM or email me 
 
 <!---
