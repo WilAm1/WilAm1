@@ -4,9 +4,12 @@ Software Developer
 - CSS
 - React
 - Git/Github
+- PHP
+
+- Bootstrap
+- Tailwind
 
 
-📫 Reach me via DM or email 
 
 
 <!---
