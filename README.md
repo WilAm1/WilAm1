@@ -12,7 +12,9 @@ I enjoy reading articles and books relating to tech and always hungry to things 
 
 <details>
 <summary>
+
 ### :sunglasses: Have Experience In:
+
  </summary>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,git,php,postgres,java,androidstudio,ps,figma)](https://skillicons.dev)
@@ -20,8 +22,10 @@ I enjoy reading articles and books relating to tech and always hungry to things 
 </details>
 
 <details>
- <summary> 
+ <summary>
+
 ### :book: Currently Studying:
+
  </summary>
 
 [![My Skills](https://skillicons.dev/icons?i=vim,bootstrap,tailwind,redux,ts,materialui,vite)](https://skillicons.dev)
@@ -30,7 +34,9 @@ I enjoy reading articles and books relating to tech and always hungry to things 
 
 <details>
 <summary>
+
 ### :grimacing: Interested In:
+
 </summary>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,dotnet,aws,nextjs,regex,wasm)](https://skillicons.dev)
