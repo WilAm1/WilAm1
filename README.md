@@ -5,7 +5,7 @@
 I enjoy reading articles and books relating to tech and always hungry to things and experience that can improve my skills and level up my career.
 
 ## Working On
-I am currently working on FCC Responsive Design Certificate
+I am currently catching up on latest trends in the web development space. 
 
 ## Technologies and Tools
 
