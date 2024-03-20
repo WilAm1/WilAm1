@@ -1,7 +1,5 @@
 <img src="./banner.svg">
 
-## About Me
-
 I enjoy reading articles and books relating to tech and always hungry to things and experience that can improve my skills and level up my career.
 
 ## Working On
