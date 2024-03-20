@@ -21,16 +21,12 @@ I am currently catching up on latest trends in the web development space.
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,nextjs)](https://skillicons.dev)
 
 
-<details>
-<summary>
 
 ### :grimacing: Interested In:
 
-</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,regex,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,regex,wasm,go,svelte)](https://skillicons.dev)
 
-</details>
 
 ## Github Stats
 
