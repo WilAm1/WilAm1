@@ -11,20 +11,15 @@ I am currently catching up on latest trends in the web development space.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,laravel,nodejs,express)](https://skillicons.dev)
 
-<details>
-<summary> :sunglasses: Have Experience In:</summary>
+### :sunglasses: Have Experience In:
 
 [![My Skills](https://skillicons.dev/icons?i=vim,bootstrap,tailwind,bash,git,php,postgres,mongo,java,androidstudio,ps,figma)](https://skillicons.dev)
 
-</details>
 
-<details>
- <summary>:book: Currently Studying:
- </summary>
+### :book: Currently Studying:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,nextjs)](https://skillicons.dev)
 
-</details>
 
 <details>
 <summary>
