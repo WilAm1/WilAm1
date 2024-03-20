@@ -11,7 +11,7 @@ I am currently catching up on latest trends in the web development space.
 
 ### :fire: I specialize in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,laravel,nodejs,express)](https://skillicons.dev)
 
 <details>
 <summary>
@@ -20,7 +20,7 @@ I am currently catching up on latest trends in the web development space.
 
  </summary>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,git,php,postgres,java,androidstudio,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,bootstrap,tailwind,bash,git,php,postgres,mongo,java,androidstudio,ps,figma)](https://skillicons.dev)
 
 </details>
 
@@ -31,7 +31,7 @@ I am currently catching up on latest trends in the web development space.
 
  </summary>
 
-[![My Skills](https://skillicons.dev/icons?i=vim,bootstrap,tailwind,redux,ts,materialui,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,nextjs)](https://skillicons.dev)
 
 </details>
 
@@ -42,7 +42,7 @@ I am currently catching up on latest trends in the web development space.
 
 </summary>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,dotnet,aws,nextjs,regex,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,regex,wasm)](https://skillicons.dev)
 
 </details>
 
