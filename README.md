@@ -9,23 +9,23 @@ I am currently catching up on latest trends in the web development space.
 
 ### :fire: I specialize in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,laravel,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,postgres)](https://skillicons.dev)
 
 ### :sunglasses: Have Experience In:
 
-[![My Skills](https://skillicons.dev/icons?i=vim,bootstrap,tailwind,bash,git,php,postgres,mongo,java,androidstudio,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,bash,git,php,mongo,java,androidstudio,figma)](https://skillicons.dev)
 
 
 ### :book: Currently Studying:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,nextjs)](https://skillicons.dev)
 
 
 
 ### :grimacing: Interested In:
 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,regex,wasm,go,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,regex,go)](https://skillicons.dev)
 
 
 ## Github Stats
