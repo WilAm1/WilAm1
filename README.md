@@ -1,9 +1,9 @@
 <img src="./banner.svg">
 
-I enjoy reading articles and books relating to tech and always hungry to things and experience that can improve my skills and level up my career.
+I enjoy experimentation and reading books, always hungry to experience that can improve my skills and level up my skills.
 
 ## Working On
-I am currently catching up on latest trends in the web development space. 
+I am currently undergoing training. Reading up books and diving deep in the web development field
 
 ## Technologies and Tools
 
@@ -18,14 +18,14 @@ I am currently catching up on latest trends in the web development space.
 
 ### :book: Currently Studying:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,nextjs,docker,go)](https://skillicons.dev)
 
 
 
 ### :grimacing: Interested In:
 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,regex,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,regex)](https://skillicons.dev)
 
 
 ## Github Stats
