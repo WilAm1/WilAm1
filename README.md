@@ -1,9 +1,9 @@
 <img src="./banner.svg">
 
-I enjoy experimentation and reading books, always hungry to experience that can improve my skills and level up my skills.
+I was afraid of being seen as a noob, but we all got to start from somewhere right?
 
 ## Working On
-I am currently undergoing training. Reading up books and diving deep in the web development field
+I am currently reading up books and diving deep in the web development field. Doing the hours and getting hands soaked. 
 
 ## Technologies and Tools
 
