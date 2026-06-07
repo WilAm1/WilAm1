@@ -3,7 +3,7 @@
 junior dev, eager to build projects
 
 ## Working On
-Testing AI and diving deep in the web development field. Currently doing the hours
+Testing AI and diving deep in the web development field. Currently putting the hours
 
 ## Github Stats
 
